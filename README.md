@@ -1,6 +1,6 @@
 # How to switch the focus from Xamarin.Forms SfTextInputLayout to the next focus control
 
-This repository contains sample for how to switch the focus from the [Syncfusion Xamarin.Forms Text Input Layout](https://help.syncfusion.com/xamarin/text-input-layout/getting-started) control to the next focus control.
+This repository contains sample to switch the focus from the [Syncfusion Xamarin.Forms Text Input Layout](https://help.syncfusion.com/xamarin/text-input-layout/getting-started) control to the next focus control.
 
 ## Syncfusion controls:
 
